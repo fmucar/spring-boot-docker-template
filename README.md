@@ -1,3 +1,5 @@
 # spring-boot-template
 
-Simple springboot application with a rest controller
+Simple springboot docker application with a rest controller
+
+
